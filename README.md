@@ -19,7 +19,7 @@ The tutorial runs on [Jupyter Notebooks](http://jupyter.org/):
 
 Simply put, it's a great way to share Python code for scientific computing. Check out this [*Nature* article](https://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261) or this [introduction](https://unidata.github.io/online-python-training/introduction.html) for a bit of history.
 
-When submitting your coursework code for evaluation, you can choose to deliver in a notebook format `.ipynb` or standard `py` format (or Matlab).
+If you submit your code on your coursework 1 report feel free to use any format, including notebook `.ipynb`, standard Python `py` format and Matlab. For coursework 2 please read the instructions on the coursework 2 guidelines. 
 
 ### How can I run the tutorial?
 Here in GitHub you can visualise the tutorial, however you can't run the code. To run the code, you need to open the notebooks either in your local machine or in a remote machine. We recommend using the remote machine because you won't have to install/configure anything. In the following we briefly introduce these two options:

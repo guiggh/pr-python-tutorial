@@ -11,11 +11,11 @@ This tutorial covers:
 4. Data visualisation: plotting, subplots, images, confusion matrix
 5. Images: loading and manipulating face data for coursework 1, intro to opencv (optional)
 
-The tutorial runs on [Jupyter Notebooks](http://jupyter.org/):
+The tutorial runs on [Jupyter Notebook](http://jupyter.org/):
 
 ``The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.``
 
-**Why Jupyter Notebooks?**
+**Why Jupyter Notebook?**
 
 Simply put, it's a great way to share Python code for scientific computing. Check out this [*Nature* article](https://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261) or this [introduction](https://unidata.github.io/online-python-training/introduction.html) for a bit of history.
 
@@ -32,16 +32,16 @@ Here in GitHub you can visualise the tutorial, however you can't run the code. T
 5. Open the notebook of your choice (you can start with 1_intro.ipynb) and start playing!
 
 #### Running the tutorial on your personal computer
-1. Install [Jupyter Notebooks](http://jupyter.org/) on your computer. Note: you need to have an installation of Python and a package manager. We recommend using [Python 3](https://www.python.org/downloads/) with [Anaconda](https://www.anaconda.com/download/#linux).
+1. Install [Jupyter Notebook](http://jupyter.org/) on your computer. Note: you need to have an installation of Python and a package manager. We recommend using [Python 3](https://www.python.org/downloads/) with [Anaconda](https://www.anaconda.com/download/#linux).
 2. Download or clone this repository on your computer.
 3. Run `jupyter notebook` and navigate to the folder.
 4. Open the notebook of your choice (you can start with 1_intro.ipynb) and start playing!
 
-### How do Jupyter Notebooks work?
+### How does Jupyter Notebook work?
 You can think of a notebook as a document organised in cells that can contain formatted text and run code. We believe the best way to learn how it works is just playing with them. Open one notebook and press the `run` button to start running cells. Run one cell with code, see the output, change the code re-run again... If you are still lost, ask any of the GTAs during the tutorial session or check [online resources](http://opentechschool.github.io/python-data-intro/core/notebook.html).
 
-### What is the relation between Jupyter Notebooks and Python?
-Jupyter Notebooks is a way to present and run interactive Python code with additional features such as adding formatted text to the code source files. If you aren't interested in using the notebooks you can still follow the tutorial and run the Python code parts in your [favourite way](https://stackoverflow.com/questions/1522564/how-do-i-run-a-python-program).
+### What is the relation between Jupyter Notebook and Python?
+Jupyter Notebook is a way to present and run interactive Python code with additional features such as adding formatted text to the code source files. If you aren't interested in using the notebook you can still follow the tutorial and run the Python code parts in your [favourite way](https://stackoverflow.com/questions/1522564/how-do-i-run-a-python-program).
 
-### Acknowledgement
+### Credit
 This tutorial is inspired (and borrows some parts) by the [tutorial](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) by [Kuleshov](http://web.stanford.edu/~kuleshov/) and [Caswell](https://symsys.stanford.edu/viewing/symsysaffiliate/21335), which is an adaptation of [Johnson](https://cs.stanford.edu/people/jcjohns/)'s [tutorial](http://cs231n.github.io/python-numpy-tutorial/).

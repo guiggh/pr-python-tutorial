@@ -27,9 +27,9 @@ Here in GitHub you can visualise the tutorial, however you can't run the code. T
 #### Running the tutorial on the cloud (Azure/Colab) (recommended)
 You can use any cloud computing service that you like (e.g. Google Colab, Microsoft Azure, etc.). [Google Colab](https://colab.research.google.com) requires a Google account, while Microsoft Azure can be accessed with your Imperial account thanks to an agreement between the college and Microsoft. Instructions to run the tutorial on Azure are as follows:
 1. Go to the [service website](https://notebooks.azure.com/).
-2. Sign in with your Imperial account (`your_login@ic.ac.uk`).
+2. Sign in with your Imperial account (`your_imperial_username@ic.ac.uk`).
 3. Follow the steps to set your account.
-4. Go to `Libraries > New library > Create New Library From GitHub`. Introduce this GitHub repo link `guiggh/pr-python-tutorial`. This will clone this repository on your Azure space.
+4. Go to `My projects > Upload GitHub Repo`. Introduce this GitHub repo link `guiggh/pr-python-tutorial`. This will clone this repository to your Azure space.
 5. Open the notebook of your choice (you can start with 1_intro.ipynb) and start playing!
 
 #### Running the tutorial on your personal computer

@@ -11,6 +11,7 @@ This tutorial covers:
 4. Data visualisation: plotting, subplots, images, confusion matrix
 5. Images: loading and manipulating face data for coursework 1, intro to opencv (optional)
 6. SVM: an example of using super vector machines with scikit.
+
 The tutorial runs on [Jupyter Notebook](http://jupyter.org/):
 
 ``The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.``
